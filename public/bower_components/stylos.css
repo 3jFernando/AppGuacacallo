@@ -1,0 +1,29 @@
+.informacion{
+
+	font-size: 10px;
+	font-weight: bold !important;
+}
+
+.infopanels{
+	color:#317eac !important; 
+	font-size:10px !important;
+}
+.informacionfechafactura{
+	color:#317eac !important; 
+
+	font-size:10px !important;
+
+}
+.spaciopanels{
+
+	    position: relative !important;
+    padding-left: 5px !important;
+    padding-right: 5px !important;
+     margin-left: 0px !important;
+    margin-right: 0px !important;
+}
+.spaciopanelsjunta{
+  padding-left: 12px !important;
+   padding-right: 5px !important;
+}
+
